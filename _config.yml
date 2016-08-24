@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Big news
+    id: 0f0f5480-9f81-498a-897c-811d9c41232f
+    type: content
 favicon: null
 title: Hello
 description: The best design ever!
