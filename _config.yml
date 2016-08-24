@@ -1,0 +1,29 @@
+typography_spectrum: 0.3487840557936579
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.40267202188260853
+  lightness: 0.1312066288664937
+  saturation: 0.557862713932991
+  rhythmicContrast: 0.275847831973806
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.2799432536121458
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: the duke
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+description: The best
+purpose: []
